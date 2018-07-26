@@ -1,2 +1,3 @@
-# COMPDES2018 madre teresa
+
+COMPDES2018 - congreso
 este es un repositorio de prueba para taller
